@@ -1,6 +1,10 @@
 # SwiftyShield
 
 <p align="center">
+  <a href="./CN/README.CN.md">简体中文</a> | <strong>English</strong>
+</p>
+
+<p align="center">
   <strong>Professional Swift Code Obfuscation Tool</strong>
 </p>
 
@@ -18,6 +22,8 @@
 **Official Website**: [https://www.swiftyshield.com](https://www.swiftyshield.com)
 
 Visit the official website to download the latest version of SwiftyShield
+
+> ✅ **Notarized by Apple** - This application has been notarized by Apple, ensuring security and reliability
 
 ---
 
@@ -178,13 +184,16 @@ If you have any questions or suggestions, feel free to contact us:
 A: No. SwiftyShield only changes identifier names in the code, not the code logic, so it will not affect code functionality.
 
 ### Q: Can obfuscated code be restored?
-A: Obfuscation records are saved in the local database, you can view the obfuscation mapping relationships, but it's recommended to keep a backup of the original code.
+A: No, the obfuscated code cannot be automatically restored. Since we cannot determine whether you have made any modifications to the obfuscated code, we recommend using Git for version control to manage your code and preserve the original version before obfuscation.
+
+### Q: How can I compare the relationship between code before and after obfuscation?
+A: The obfuscation records contain all the mapping relationships that you can view. You can check the detailed mapping of identifiers before and after obfuscation in the obfuscation history records.
 
 ### Q: Which Swift versions are supported?
-A: Please visit the official website for the latest compatibility information.
+A: Supports Swift 5.0 and above.
 
 ### Q: Can third-party libraries be obfuscated?
-A: Yes, but it's recommended to only obfuscate your own code to avoid compatibility issues from obfuscating third-party libraries.
+A: Yes, but it's recommended to only obfuscate your own code.
 
 ### Q: Where can I get the Payment ID?
 A: After completing payment, the Payment ID will be sent to your registered email, please check (may take a few minutes).
