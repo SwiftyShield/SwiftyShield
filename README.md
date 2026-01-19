@@ -27,6 +27,14 @@ Visit the official website to download the latest version of SwiftyShield
 
 ---
 
+## 📺 Demo Video
+
+<video src="https://github.com/user-attachments/assets/demo.mp4" controls></video>
+
+> You can also [download the demo video](./Video/demo.mp4) to view it locally
+
+---
+
 ## ✨ Features
 
 ### 🔐 Secure Source Code Protection
