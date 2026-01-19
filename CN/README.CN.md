@@ -29,9 +29,7 @@
 
 ## 📺 演示视频
 
-<video src="https://github.com/user-attachments/assets/demo.mp4" controls></video>
-
-> 您也可以[下载演示视频](../Video/demo.mp4)在本地查看
+<video src="https://erjntqiotojkxtyrhscz.supabase.co/storage/v1/object/public/Demo/swiftyshield-demo.mp4" controls></video>
 
 ---
 
