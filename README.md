@@ -183,3 +183,5 @@ A: Yes, but it's recommended to only obfuscate your own code.
 ### Q: Where can I get the Payment ID?
 A: After completing payment, the Payment ID will be sent to your registered email, please check (may take a few minutes).
 
+### Q: How to ignore properties that map to server-side fields?
+A: If your Model conforms to `Codable` protocol, no additional handling is needed - SwiftyShield will automatically handle it. Otherwise, you need to create a custom protocol, and add the protocol name to the ignore protocol list before obfuscation, so the mapping relationship won't be broken.
