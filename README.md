@@ -158,8 +158,7 @@ Click the **Obfuscation History** entry on the homepage to:
 
 If you have any questions or suggestions, feel free to contact us:
 
-- **Official Website**: [https://www.swiftyshield.com](https://www.swiftyshield.com)
-- **Contact Me**: Click the "Contact Me" button on the app homepage
+- **Email**: swiftyshield@outlook.com
 
 ---
 

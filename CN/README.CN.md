@@ -158,8 +158,7 @@
 
 如有任何问题或建议，欢迎通过以下方式联系我们：
 
-- **官方网站**: [https://www.swiftyshield.com](https://www.swiftyshield.com)
-- **Contact Me**: 在应用首页点击 "Contact Me" 按钮
+- **联系邮箱**: swiftyshield@outlook.com
 
 ---
 
